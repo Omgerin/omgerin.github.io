@@ -112,8 +112,8 @@ iframe {border: 0;}
 /*Slides 2, 3*/
 
 .tp-caption.hero-text {
-  color: #fff;
-  text-shadow: none;
+  color: black;
+  text-shadow: -1px -1px 5px white, 1px 1px 5px white;
   font-weight: 700;
   line-height: 60px;
   font-family: "Montserrat", sans-serif;
@@ -155,7 +155,7 @@ iframe {border: 0;}
 }
 
 .tp-caption.medium_text {
-  color: #fff;
+  color: black;
   font-weight: 400;
   font-size: 15px;
   line-height: 20px;
@@ -166,11 +166,11 @@ iframe {border: 0;}
   border-style: none;
   white-space: nowrap;
   text-transform: uppercase;
-  text-shadow: none;
+  text-shadow: 0 0 5px white;
 }
 
 .tp-caption.small_text {
-  color: #fff;
+  color: black;
   font-weight: 400;
   font-size: 16px;
   line-height: 20px;
@@ -179,7 +179,7 @@ iframe {border: 0;}
   border-width: 0px;
   border-style: none;
   white-space: nowrap;
-  text-shadow: none;
+  text-shadow: 0 0 5px white;
 }
 
 .subheading_text {
